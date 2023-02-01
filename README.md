@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Live Project link : []()
+## Live Project link : [ReduxCart](https://reduxcart-sakebul.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
